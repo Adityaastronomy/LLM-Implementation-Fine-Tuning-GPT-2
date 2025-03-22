@@ -2,6 +2,16 @@
 
 This project explores three key areas: building a GPT architecture from scratch, fine-tuning GPT-2 for spam email classification, and instruction-tuning GPT-2 using the Alpaca dataset format.
 
+The steps of the Project will be:
+1. Data Preparation and Sampling
+2. Tokenization
+3. Attention Mechanism
+4. Implementing LLM Architecture
+5. Training Loop
+6. Model Evaluation
+7. Loading Pretrained Weights
+8. Fine-tuning LLM based on a custom dataset.
+   
 ## Project Overview
 
 ### 1. Scratch Implementation of GPT Architecture
